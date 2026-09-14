@@ -25,6 +25,17 @@ h1, h2, footer {
 footer  img {
     height: 100px;
 }
+
+.inline-list {
+  display: flex;          /* Places items side-by-side */
+  list-style: none;      /* Removes the bullet points */
+  padding: 0;             /* Removes standard left padding */
+  margin: 0;              /* Removes standard margins */
+  gap: 5%;              /* Adds clean space between the items */
+  justify-content: center;
+}
+
+
   
 tr:first-child th, tr:first-child td { border-top: none; }
 tr:last-child td                     { border-bottom: none; } 
