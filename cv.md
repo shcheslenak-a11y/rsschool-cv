@@ -85,11 +85,19 @@ Bachelor of Mathematics
 
 ## Skills
 
-* Databases
-* Web Development
-* Shell Scripting
+* Program languages: Python, Java, JavaScript, Shell Scripting, Node.js;
+* Databases: Elasticsearch, MongoDB, MSSQL, IBM DB2, MySQL, PostgreSQL;
+* Web Frameworks: Flask, FastApi, gRPC, React;
+* Cloud Technologies: IBM Cloud, Microsoft Azure;
+* Orchestration and version control tools: Docker, Git, Jira, Kubernetes, Apache Airflow, Apache Nifi;
 * Algoritms
 * Problem-Solving
 * Time Management
 * Market Research
 * Team Collaboration
+
+## Languages
+
+* English - Upper-Intermediate
+* Russian - Native
+* Belarusian - Native
