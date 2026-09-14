@@ -1,0 +1,32 @@
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse; /* Merges the cell lines together */
+    width: 100%;
+  }
+
+  /* 1. Add borders to all sides of every cell */
+th, td {
+    border: 2px solid black; 
+    padding: 10px;
+  }
+
+th {
+    text-align: center;
+  }
+  
+h1, h2, footer {
+    text-align: center;
+}
+
+footer  img {
+    height: 100px;
+}
+  
+tr:first-child th, tr:first-child td { border-top: none; }
+tr:last-child td                     { border-bottom: none; } 
+th:first-child, td:first-child       { border-left: none; }  
+th:last-child, td:last-child         { border-right: none; } 
