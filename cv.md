@@ -1,8 +1,12 @@
-# Andrei Shcheslenak
+<img align="left" src="images/avatar.jpg" />
 
-**Software Engineer**
+   # &nbsp; Andrei Shcheslenak
+
+   **&nbsp;&nbsp;&nbsp;Software Engineer**
 
 ---
+
+<br />
 
 ### Contact
 
